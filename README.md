@@ -1,1 +1,1 @@
-# TimurKindykov.github.io
+# TimurKindykov.github.io/dist
